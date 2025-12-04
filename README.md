@@ -325,10 +325,3 @@ After deployment, retrieve the `EXTERNAL-IP` from `kubectl get svc` and open it 
 Feel free to submit issues or pull requests to improve this setup. Ensure all changes align with the CI/CD pipeline.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` provides a comprehensive guide, including setup instructions, code snippets, and explanations. It’s designed to be user-friendly while covering all necessary details for deployment. Let me know if you'd like to adjust or expand any section!
