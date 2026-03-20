@@ -37,6 +37,7 @@ This repository contains a complete setup for deploying a Flask application usin
 - Basic knowledge of Docker, Kubernetes, and Azure services.
 - Git installed locally to push code to Azure Repos.
 
+
 ---
 
 ## 🧱 Manual Creation Steps (Azure Portal)
